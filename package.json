@@ -1,0 +1,12 @@
+{
+  "name": "lucent-medovik",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo 'No build needed'"
+  },
+  "dependencies": {
+    "firebase-admin": "^12.0.0"
+  }
+}
